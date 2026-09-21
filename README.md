@@ -10,13 +10,13 @@
 
 <!-- Social Connect Badges -->
 <p align="center">
-  <a href="https://linkedin.com/in/satyendra-kumar-5a759b375" target="_blank">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://github.com/SatyendraKumar2016" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
-  <a href="mailto:satyendrakumar0297gmail.com" target="_blank">
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
   <a href="https://yourportfolio.com" target="_blank">
@@ -38,8 +38,15 @@
 
 ---
 
-## 🛠️ Interactive Tech Stack & Skills
-*(💡 Tip: You can check/uncheck these boxes directly on your profile or edit them as you master new skills!)*
+## ⚡ What I'm Currently Focused On
+- 🔭 Building **CloudForge** (Adding Dockerized CI/CD pipeline workflows)
+- 🧠 Solving daily coding challenges & sharpening **Advanced DSA**
+- 🤖 Exploring **RAG architectures** and integrating AI tools into backend workflows
+
+---
+
+## 🛠️ Tech Stack & Ecosystem
+*(💡 Tip: You can check/uncheck these boxes directly on your profile as you master new skills!)*
 
 ### 💻 Languages & Core
 - [x] Java (Advanced)
@@ -113,6 +120,9 @@
 <div align="center">
 
   <p>
+    <img src="https://github-profile-trophy.vercel.app/?username=SatyendraKumar2016&theme=radical&no-frame=true&margin-w=5&margin-h=5" alt="GitHub Trophies" />
+  </p>
+  <p>
     <img src="https://github-readme-stats.vercel.app/api?username=SatyendraKumar2016&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Satyendra's GitHub Stats" />
   </p>
   <p>
@@ -120,6 +130,9 @@
   </p>
   <p>
     <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=SatyendraKumar2016&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+  </p>
+  <p>
+    <img src="https://komarev.com/ghpvc/?username=SatyendraKumar2016&color=brightgreen&style=flat-square&label=Profile+Views" alt="Visitor Count" />
   </p>
 
 </div>
