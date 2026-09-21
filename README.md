@@ -1,233 +1,136 @@
+<div align="center">
+
 # 👋 Hi, I'm Satyendra Kumar
 
-### 🎓 MCA @ NIT Raipur  •  ☕ Java Backend Developer  •  🤖 AI Enthusiast
+### 🎓 MCA @ NIT Raipur  &nbsp;•&nbsp;  ☕ Java Backend Developer  &nbsp;•&nbsp;  🤖 AI Enthusiast
 
 <p align="center">
-  <b>Building software • Solving problems • Learning continuously 🚀</b>
+  <b>Building scalable backend systems • Solving complex problems • Learning continuously 🚀</b>
 </p>
+
+<!-- Social Connect Badges -->
+<p align="center">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://github.com/SatyendraKumar2016" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://yourportfolio.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-2575FC?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio Badge"/>
+  </a>
+</p>
+
+</div>
 
 ---
 
 ## 🧑‍💻 About Me
 
-I'm an **MCA student at NIT Raipur** passionate about software engineering, backend development, and AI-powered applications.
-
-I enjoy building projects that solve practical problems while continuously strengthening my foundations in **DSA, Core CS, backend architecture, and system design**.
-
-* 🎓 Pursuing **MCA at NIT Raipur**
-* ☕ Building with **Java & Spring Boot**
-* 🧠 Practicing **Data Structures & Algorithms**
-* 🤖 Exploring **AI/ML & Generative AI**
-* ⚙️ Interested in **Backend Engineering, System Design & Developer Tools**
-* 🐳 Learning **Docker, CI/CD & Cloud technologies**
-* 🚀 Building projects that combine **software engineering + real-world use cases**
+* 🎓 Pursuing **MCA at NIT Raipur** with a strong foundation in Computer Applications.
+* ☕ Focused on building robust backend architectures using **Java & Spring Boot**.
+* 🧠 Actively practicing **Data Structures & Algorithms (DSA)** and Core Computer Science concepts.
+* 🤖 Exploring the intersection of **Backend Engineering & AI/ML** applications.
+* 🎯 **Goal:** Evolve into a high-impact Software Engineer specializing in backend systems and developer tools.
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Interactive Tech Stack & Skills
+*(💡 Tip: You can check/uncheck these boxes directly on your profile or edit them as you master new skills!)*
 
-### 💻 Languages
-
-`Java` `C` `Python` `JavaScript`
+### 💻 Languages & Core
+- [x] Java (Advanced)
+- [ ] C / C++ (Intermediate)
+- [x] Python (Scripting & Basics)
+- [x] JavaScript (ES6+)
 
 ### ⚙️ Backend & Frameworks
+- [x] Spring Boot / Spring MVC
+- [x] RESTful API Design & Architecture
+- [x] Django (Python Web Framework)
+- [x] JWT Authentication & Security
 
-`Spring Boot` `Django` `REST APIs`
+### 🗄️ Databases & Caching
+- [x] PostgreSQL / MySQL
+- [ ] MongoDB (NoSQL)
+- [ ] Redis (Caching/Session Management)
 
-### 🎨 Frontend
-
-`HTML` `CSS` `JavaScript` `React`
-
-### 🗄️ Databases
-
-`PostgreSQL` `MongoDB` `SQLite`
-
-### 🔧 Tools & Technologies
-
-`Git` `GitHub` `Linux` `VS Code` `Postman` `Docker`
-
-### 🧠 Exploring
-
-`DSA` `System Design` `AI/ML` `Generative AI` `Cloud` `CI/CD`
+### 🔧 DevOps, Tools & Cloud
+- [x] Git & GitHub Version Control
+- [x] Docker Containerization Basics
+- [ ] CI/CD Pipelines (GitHub Actions)
+- [x] Linux OS & Command Line
+- [x] Postman / API Testing
 
 ---
 
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
-## ☁️ CloudForge
+### ☁️ **[CloudForge](https://github.com/SatyendraKumar2016/CloudForge)**
+> **Self-Hosted Developer Platform** — Inspired by modern cloud services, CI/CD pipelines, and GitHub workflows.
+* **Core Focus:** Backend Engineering • Developer Tooling • DevOps
+* **Key Features:** JWT Auth, Role Management, Repository Workflows, CI/CD Automation, Container Workflows, Audit Logging.
+* **Tech Stack:** `Java` `Spring Boot` `PostgreSQL` `JWT` `Docker` `Git`
+* 🔗 [Live Demo](#) • 📂 [Repository](https://github.com/SatyendraKumar2016/CloudForge)
 
-### *Self-Hosted Developer Platform*
+### 🤖 **[CareerSync](https://github.com/SatyendraKumar2016/CareerSync)**
+> **AI-Powered Career Platform** — Designed for student-mentor ecosystems, featuring automated resume building and smart tracking.
+* **Key Features:** Student-mentor workflows, AI career recommendations, ATS-friendly resume builder & PDF generator, progress tracking.
+* **Tech Stack:** `Python` `Django` `AI/ML` `SQL` `JavaScript`
+* 🔗 [Live Demo](#) • 📂 [Repository](https://github.com/SatyendraKumar2016/CareerSync)
 
-> A developer platform focused on repository management, automation, CI/CD and developer workflows.
-
-**Core Focus**
-
-`Backend Engineering` • `Developer Tools` • `CI/CD` • `DevOps`
-
-**Building**
-
-* 🔐 JWT Authentication & Authorization
-* 👥 User & Role Management
-* 📦 Repository Management
-* 🔀 Pull Requests & Code Reviews
-* ⚙️ CI/CD Pipeline Automation
-* 🐳 Container & Deployment Workflows
-* 📊 Logs, Metrics & Monitoring
-* 🔑 Secrets & Permissions
-* 🔔 Webhooks & Notifications
-* 📝 Audit Logging
-* 🔌 Extensible Plugin Architecture
-
-**Stack:** `Java` `Spring Boot` `PostgreSQL` `JWT` `Docker` `Git` `CI/CD`
+### 📹 **[LinkUp](https://github.com/SatyendraKumar2016/LinkUp)**
+> **Real-Time Video Conferencing App** — Cross-platform communication tool built for fast and reliable collaboration.
+* **Key Features:** Real-time video/audio streaming, secure user authentication, cloud integration.
+* **Tech Stack:** `Flutter` `Dart` `Supabase/Firebase` `Agora / WebRTC`
+* 🔗 [Live Demo](#) • 📂 [Repository](https://github.com/SatyendraKumar2016/LinkUp)
 
 ---
 
-## 🤖 CareerSync
-
-### *AI-Powered Career Platform*
-
-> A platform designed to help students plan, build and track their career journey.
-
-**Highlights**
-
-* 👨‍🎓 Student & Mentor Workflows
-* 🤖 AI-Based Career Recommendations
-* 📄 ATS-Friendly Resume Builder
-* 📑 Resume PDF Generation
-* 📅 Career Planning
-* 📈 Progress Tracking
-* 💬 Community & Discussion Features
-
-**Stack:** `Python` `Django` `AI/ML` `SQL` `JavaScript`
+## 📚 Core Computer Science Foundations
+- 📊 **Data Structures & Algorithms** (Problem Solving & Optimization)
+- 🖥️ **Operating Systems** (Process Management, Threads, Memory)
+- 🗄️ **Database Management Systems** (Indexing, Transactions, Normalization)
+- 🌐 **Computer Networks** (TCP/IP, HTTP/HTTPS, REST Protocols)
+- ☕ **Object-Oriented Programming (OOPs)** & System Design Principles
 
 ---
 
-## 📹 LinkUp
+## 🗺️ Current Learning & Roadmap
 
-### *Real-Time Video Conferencing Platform*
-
-> A cross-platform communication application focused on real-time video collaboration.
-
-**Highlights**
-
-* 🎥 Video Conferencing
-* 🎙️ Real-Time Communication
-* 🔐 Authentication
-* ☁️ Cloud Integration
-* 📱 Cross-Platform Development
-
-**Stack:** `Flutter` `Supabase/Firebase` `Agora/WebRTC`
+- [x] **Phase 1:** Core CS, C Programming, Advanced DSA & Problem Solving
+- [x] **Phase 2:** Java Backend Engineering, Spring Boot, REST APIs, PostgreSQL
+- [ ] **Phase 3:** Docker, Advanced CI/CD, Linux Administration, System Design
+- [ ] **Phase 4:** AI Engineering, GenAI Integrations, and LLM Applications
 
 ---
 
-# 🧠 Currently Working On
+## 📈 GitHub Stats & Activity
 
-```text
-DSA & Problem Solving       ███████░░░
-Java Backend Development    █████████░
-Spring Boot                 ████████░░
-AI / ML                     ██████░░░░
-System Design               █████░░░░░
-Docker & CI/CD              ██████░░░░
-```
+<div align="center">
 
----
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=SatyendraKumar2016&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Satyendra's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SatyendraKumar2016&layout=compact&theme=radical&hide_border=true&bg_color=0d1117" alt="Top Languages" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/streak-stats/?username=SatyendraKumar2016&theme=radical&hide_border=true&bg_color=0d1117" alt="GitHub Streak" />
+  </p>
 
-# 📚 Core Computer Science
-
-```text
-▸ Data Structures & Algorithms
-▸ Operating Systems
-▸ Database Management Systems
-▸ Computer Networks
-▸ Object-Oriented Programming
-▸ Software Engineering
-▸ System Design
-▸ Computer Architecture
-```
+</div>
 
 ---
 
-# 🗺️ Learning Roadmap
+<div align="center">
 
-### 01 — Fundamentals
+### 🤝 Let's Connect & Build Together!
+*If you find my projects or repositories useful, feel free to give them a ⭐!*
 
-* C Programming
-* Object-Oriented Programming
-* SQL
-* Advanced DSA
-* Core CS
+**Keep Building 🚀 • Keep Learning 📚 • Keep Improving 💡**
 
-### 02 — Backend Engineering
-
-* Java
-* Spring Boot
-* REST APIs
-* PostgreSQL
-* Authentication & Authorization
-* Advanced Spring
-* Microservices
-
-### 03 — DevOps & Systems
-
-* Docker
-* CI/CD
-* Linux
-* Cloud Deployment
-* Monitoring & Observability
-* System Design
-
-### 04 — AI Engineering
-
-* Machine Learning
-* Deep Learning
-* Generative AI
-* LLM Applications
-* AI + Backend Integration
-
----
-
-# 🎯 Engineering Philosophy
-
-> ### **Learn → Build → Break → Debug → Improve → Repeat.**
-
-I believe real growth comes from **building things, understanding why they work, learning from failures, and continuously improving.**
-
----
-
-# 💼 Areas I'm Interested In
-
-```text
-Software Engineering
-Backend Development
-Java & Spring Boot
-AI Engineering
-Full-Stack Development
-Developer Tools
-Cloud & DevOps
-System Design
-```
-
----
-
-# 🤝 Let's Connect
-
-I'm always open to conversations around:
-
-💻 Software Engineering & Development
-☕ Java & Spring Boot
-🤖 AI / ML
-🧠 DSA & Problem Solving
-🚀 Project Ideas & Collaboration
-🌐 Open Source
-☁️ Cloud & DevOps
-
----
-
-<p align="center">
-
-### ⭐ Thanks for visiting my profile!
-
-**Keep Building. Keep Learning. Keep Improving. 🚀**
-
-</p>
+</div>
